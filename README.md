@@ -21,21 +21,12 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)  
 
 ### 🚀 Projects  
-- **[My C++ Game Engine](https://github.com/your-username/engine)** – Custom ECS, renderer, and physics. *(WIP)*  
-- **[Unity Game: Project X](https://github.com/your-username/project-x)** – A [genre] game with [key features].  
+- **[My C++ Game Engine](https://github.com/Steopka/Game_Engini.git)** – Custom ECS, renderer, and physics. *(WIP)*  
+- **[Unity Game](https://github.com/Steopka/Game_Novell.git)** – A [genre] game with [key features].  
 - **[OpenGL Renderer Demo](https://github.com/your-username/opengl-demo)** – PBR, deferred shading, and more.  
 
-### 📊 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide=HLSL,ShaderLab)](https://github.com/your-username)  
-
-### 🌟 Featured Repositories  
-[![Engine Repo](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=engine&theme=dark)](https://github.com/your-username/engine)  
-[![Unity Game Repo](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-x&theme=dark)](https://github.com/your-username/project-x)  
-
 ### 📫 Let's Connect!  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://your-username.itch.io/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Stepan49661)  
+[![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://steopka.itch.io/)  
 
 > *"Games are a collision of art and code."*  
