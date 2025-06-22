@@ -1,4 +1,4 @@
-# Hey there, I'm Stepan! 👋  
+# Hey there, I'm Steopka! 👋  
 **Game Developer | Unity Specialist | C++ Engine Programmer**  
 
 ### 🎮 About Me  
