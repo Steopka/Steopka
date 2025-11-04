@@ -20,6 +20,6 @@
 
 ### 📫 Let's Connect!  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Stepan49661)  
-[![Itch.io]([https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itch.io&logoColor=white)](https://keeper4.itch.io/]))  
+[![Itch.io]([https://img.shields.io/badge/-Itch.io-FA5C5C?logo=itch.io&logoColor=white)]([https://keeper4.itch.io/](https://keeper4.itch.io/)]))  
 
 > *"Games are a collision of art and code."*  
