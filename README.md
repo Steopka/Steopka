@@ -14,19 +14,3 @@
 
 ### 🎮 Current Project  
 **[Tavern Defender](https://keeper4.itch.io/)** - Tactical tower defense where every power-up comes with a curse. Built with clean architecture and pixel-perfect gameplay.
-
-### 🏆 Recent Milestones  
-✅ Complete game loop with waves, economy, and progression  
-✅ Dynamic card system with risk/reward mechanics  
-✅ Polished UI/UX with responsive design  
-✅ Multiple tower types and enemy behaviors  
-
-### 📊 Development Philosophy  
-```csharp
-// Progress happens brick by brick
-while (project != finished)
-{
-    code.Add(new Feature());
-    bugs.Fix();
-    motivation++;
-}
