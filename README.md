@@ -1,5 +1,5 @@
 # Hey there, I'm Steopka! 👋  
-**Game Developer | Unity Specialist | C++ Engine Programmer**  
+**Game Developer | Unity Specialist**  
 
 ### 🛠 Tech Stack  
 **Game Dev:**  
