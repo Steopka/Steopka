@@ -13,4 +13,4 @@
 ![Aseprite](https://img.shields.io/badge/-Aseprite-7D929E?logo=aseprite&logoColor=white)
 
 ### 🎮 Current Project  
-**[Tavern Defender](https://keeper4.itch.io/)** - Tactical tower defense where every power-up comes with a curse. Built with clean architecture and pixel-perfect gameplay.
+**[Tavern Defender](https://keeper4.itch.io/tavern-defenders)** - Tactical tower defense where every power-up comes with a curse. Built with clean architecture and pixel-perfect gameplay.
