@@ -18,3 +18,5 @@ This brief overview highlights the challenging and engaging gameplay
 The goal is one - to hold out as long as possible and get the maximum points.
 
 **[Tavern Defender](https://keeper4.itch.io/tavern-defenders)** - Tactical tower defense where every power-up comes with a curse. Built with clean architecture and pixel-perfect gameplay.
+
+**[Food of the Deep](https://keeper4.itch.io/food-of-the-deep)** - Take control of a hungry shark starting its journey near the surface. To survive the crushing DEPTHS, you must consume everything in your path. The more you eat, the larger you grow, allowing you to dive deeper into the darkness where even bigger threats await. Can you become the true apex predator and defeat the Ancient Boss of the Abyss?
