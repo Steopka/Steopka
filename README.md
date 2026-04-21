@@ -1,5 +1,5 @@
 # Hey there, I'm Keeper4 👋  
-**Indie Game Developer | Unity Craftsman**  
+**Game Developer | Unity Craftsman**  
 
 ### 🛠 Tech Stack  
 **Core:**  
